@@ -1,5 +1,5 @@
 # Casos de uso de GitHub Pages
-Este repositorio contiene los casos de uso que estoy probando para trabajar con <a href="https://pages.github.com/">GitHub Pages</a>. Si quieres aportar ideas, puedes escribirme en twitter en <a href="https://twitter.com/cristinafsanz">@cristinafsanz</a>.
+Este repositorio contiene los casos de uso que estoy probando para trabajar con <a href="https://pages.github.com/">GitHub Pages</a>. Si quieres aportar ideas, puedes escribirme a <a href="https://twitter.com/cristinafsanz">@cristinafsanz</a>.
 
 ## Índice
 
@@ -29,60 +29,60 @@ Para habilitar GitHub Pages desde `master` o `/docs` hay que ir a la sección `S
 
 ### master
 
-* Repositorio de GitHub: https://github.com/cristinafsanz/melies-origen
+* Repositorio de GitHub: https://github.com/cristinafsanz/melies-origen.
 
-* Cómo se hizo (README): https://github.com/cristinafsanz/melies-origen
+* Cómo se hizo (README): https://github.com/cristinafsanz/melies-origen.
 
-* Resultado: https://cristinafsanz.github.io/melies-origen/
+* Resultado: https://cristinafsanz.github.io/melies-origen/.
 
 ### gh-pages
 
-* Repositorio de GitHub: https://github.com/cristinafsanz/projects
+* Repositorio de GitHub: https://github.com/cristinafsanz/projects.
 
-* Cómo se hizo: http://cristinafsanz.github.io/projects/about/
+* Cómo se hizo: http://cristinafsanz.github.io/projects/about/.
 
-* Resultado: http://cristinafsanz.github.io/projects/
+* Resultado: http://cristinafsanz.github.io/projects/.
 
 ### docs
 
-* Repositorio de GitHub: https://github.com/cristinafsanz/melies-hugo
+* Repositorio de GitHub: https://github.com/cristinafsanz/melies-hugo.
 
-* Cómo se hizo (README): https://github.com/cristinafsanz/melies-hugo
+* Cómo se hizo (README): https://github.com/cristinafsanz/melies-hugo.
 
-* Resultado: https://melies-hugo.js.org/
+* Resultado: https://melies-hugo.js.org/.
 
 ## Utilidades
 
 ### Página web
 
-* Repositorio de GitHub: https://github.com/cristinafsanz/alcelavistaytevimadrid
+* Repositorio de GitHub: https://github.com/cristinafsanz/alcelavistaytevimadrid.
 
-* Resultado: http://cristinafsanz.github.io/alcelavistaytevimadrid/
+* Resultado: http://cristinafsanz.github.io/alcelavistaytevimadrid/.
 
 ### Blog
 
-* Repositorio de GitHub: https://github.com/cristinafsanz/melies-hugo
+* Repositorio de GitHub: https://github.com/cristinafsanz/melies-hugo.
 
-* Resultado: https://melies-hugo.js.org/
+* Resultado: https://melies-hugo.js.org/.
 
 ### Portfolio
 
-* Repositorio de GitHub: https://github.com/cristinafsanz/projects
+* Repositorio de GitHub: https://github.com/cristinafsanz/projects.
 
-* Resultado: http://cristinafsanz.github.io/projects/project/
+* Resultado: http://cristinafsanz.github.io/projects/project/.
 
 ### Presentación 
 
-* Repositorio de GitHub: https://github.com/cristinafsanz/melies-origen
+* Repositorio de GitHub: https://github.com/cristinafsanz/melies-origen.
 
-* Resultado: https://cristinafsanz.github.io/melies-origen/
+* Resultado: https://cristinafsanz.github.io/melies-origen/.
 
 ## Avanzado
 
 ### Dominio propio
 
-* Repositorio de GitHub: https://github.com/cristinafsanz/melies-hugo
+* Repositorio de GitHub: https://github.com/cristinafsanz/melies-hugo.
 
-* Cómo se hizo: https://github.com/cristinafsanz/melies-hugo#cambiar-dominio-de-github-pages
+* Cómo se hizo: https://github.com/cristinafsanz/melies-hugo#cambiar-dominio-de-github-pages.
 
-* Resultado: https://melies-hugo.js.org/
+* Resultado: https://melies-hugo.js.org/.
