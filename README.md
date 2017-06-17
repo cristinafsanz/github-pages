@@ -9,10 +9,10 @@ Este repositorio contiene los casos de uso que estoy probando para trabajar con 
   * [docs](#docs)
 
 * [Utilidades](#utilidades)
-  * [Página web](#pagina-web)
+  * [Página web](#página-web)
   * [Blog](#blog)
   * [Portfolio](#portfolio)
-  * [Presentación](#presentacion)
+  * [Presentación](#presentación)
 
 * [Avanzado](#avanzado)
   * [Dominio propio](#dominio-propio)
