@@ -1,0 +1,56 @@
+section, .slide {
+    padding-top: 0;
+    padding-bottom: 12rem;
+}
+
+h2 {
+    padding-top: 9rem;
+    border-bottom: 5px solid black;
+    font-size: 7rem;
+}
+
+h2.presentation {
+    font-size: 5rem;
+}
+
+a, .bg-white a {
+    color: black;
+}
+a.visible-link {
+    color: #3af;
+}
+
+pre {
+    font-size: 2.5rem;
+}
+
+[class*="bg-"] .dark {
+    opacity: 0.10;
+}
+
+.text-intro, [class*="content-"] p {
+    font-size: 11rem;
+    margin-top: 8rem;
+}
+
+.text-end {
+    font-size: 7rem;
+    margin-top: 4rem;
+}
+
+.flex-content {
+    min-height: 50rem;
+}
+
+.flex-content p {
+    font-size: 3.5rem;
+    margin-top: 4rem;
+}
+
+ul.description li {
+    font-size: 3.5rem;
+}
+
+.credits {
+    line-height: 6rem;
+}
