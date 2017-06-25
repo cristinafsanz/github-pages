@@ -16,6 +16,7 @@ h2.presentation {
 a, .bg-white a {
     color: black;
 }
+
 a.visible-link {
     color: #3af;
 }
@@ -27,6 +28,10 @@ pre {
 .wrap-80 {
     width: 80%;
     margin-left: 10%;
+}
+
+.img-70 {
+    width: 70%;
 }
 
 [class*="bg-"] .dark {
