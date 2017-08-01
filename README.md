@@ -1,5 +1,5 @@
 # Casos de uso de GitHub Pages
-Este repositorio contiene los casos de uso que estoy probando para trabajar con <a href="https://pages.github.com/">GitHub Pages</a>. Si quieres aportar ideas, puedes escribirme a <a href="https://twitter.com/cristinafsanz">@cristinafsanz</a>.
+Este repositorio contiene los casos de uso que estoy probando para trabajar con <a href="https://pages.github.com/">GitHub Pages</a>. Si quieres aportar más ideas, puedes contactarme por twitter a <a href="https://twitter.com/cristinafsanz">@cristinafsanz</a>.
 
 ## Índice
 
