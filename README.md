@@ -42,9 +42,11 @@ Para proyectos web con sólo html, css y JavaScript.
 
 ### gh-pages
 
-Para proyectos web con sólo html, css y JavaScript. Actualmente tiene más sentido usarlo para alojar el código web generado a partir de otro subido a master (por ejemplo proyecto con gulp o código de un generador estático).
+Para proyectos web con sólo html, css y JavaScript.
 
-El ejemplo siguiente se hizo antes de que se pudiera habilitar master para GitHub Pages, por lo que se trata de un caso de uso similar al de master.
+Actualmente tiene más sentido usarlo para alojar el código web generado a partir de otro subido a master (por ejemplo proyecto con gulp o código de un generador estático). Un ejemplo se explica en la charla <a href="https://www.youtube.com/watch?v=-MXVtFwS6Gw">Cómo desplegar tus proyectos Open Source</a> de <a href="https://twitter.com/laux_es">Ángel M Miguel</a>.
+
+El siguiente ejemplo se hizo antes de que se pudiera habilitar master para GitHub Pages, por lo que se trata de un caso de uso similar al de master.
 
 * Repositorio de GitHub: https://github.com/cristinafsanz/projects.
 
