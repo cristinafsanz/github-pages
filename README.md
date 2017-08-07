@@ -18,6 +18,8 @@ Este repositorio contiene los casos de uso que estoy probando para trabajar con 
 * [Avanzado](#avanzado)
   * [Dominio propio](#dominio-propio)
 
+* [Otros casos de uso](#otros-casos-de-uso)
+
 ## Origen
 
 Hay dos posibilidades para publicar con GitHub Pages, usar el `User site` y publicar en `username.github.io` o usar `Project sites` para publicar en cualquiera de los repositorios que tengas (`username.github.io/repository`).
@@ -30,6 +32,8 @@ Para habilitar GitHub Pages desde `master` o `/docs` hay que ir a la sección `S
 
 ### master
 
+Para proyectos web con sólo html, css y JavaScript.
+
 * Repositorio de GitHub: https://github.com/cristinafsanz/melies-origen.
 
 * Cómo se hizo (README): https://github.com/cristinafsanz/melies-origen.
@@ -37,6 +41,10 @@ Para habilitar GitHub Pages desde `master` o `/docs` hay que ir a la sección `S
 * Resultado: https://cristinafsanz.github.io/melies-origen/.
 
 ### gh-pages
+
+Para proyectos web con sólo html, css y JavaScript. Actualmente tiene más sentido usarlo para alojar el código web generado a partir de otro subido a master (por ejemplo proyecto con gulp o código de un generador estático).
+
+El ejemplo siguiente se hizo antes de que se pudiera habilitar master para GitHub Pages, por lo que se trata de un caso de uso similar al de master.
 
 * Repositorio de GitHub: https://github.com/cristinafsanz/projects.
 
@@ -46,11 +54,23 @@ Para habilitar GitHub Pages desde `master` o `/docs` hay que ir a la sección `S
 
 ### docs
 
+Para proyectos donde hay código fuente que no es web, pero a partir de él se genera el código web (como proyecto con gulp o código de un generador estático) o se añade documentación sobre un proyecto.
+
+#### Proyecto generador estático
+
 * Repositorio de GitHub: https://github.com/cristinafsanz/melies-hugo.
 
 * Cómo se hizo (README): https://github.com/cristinafsanz/melies-hugo.
 
 * Resultado: https://melies-hugo.js.org/.
+
+#### Proyecto Angular con gulp
+
+* Repositorio de GitHub: https://github.com/cristinafsanz/angularjs-gulp-browserify-boilerplate.
+
+* Cómo se hizo (README): https://github.com/cristinafsanz/angularjs-gulp-browserify-boilerplate.
+
+* Resultado: https://cristinafsanz.github.io/angularjs-gulp-browserify-boilerplate/.
 
 ## Utilidades
 
@@ -72,13 +92,13 @@ Para habilitar GitHub Pages desde `master` o `/docs` hay que ir a la sección `S
 
 * Resultado: http://cristinafsanz.github.io/projects/project/.
 
-### Presentación 
+### Presentación
 
 * Repositorio de GitHub: https://github.com/cristinafsanz/melies-origen.
 
 * Resultado: https://cristinafsanz.github.io/melies-origen/.
 
-### Tutoriales
+### Tutorial
 
 * Repositorio de GitHub: https://github.com/cristinafsanz/angular-crud.
 
@@ -93,3 +113,29 @@ Para habilitar GitHub Pages desde `master` o `/docs` hay que ir a la sección `S
 * Cómo se hizo: https://github.com/cristinafsanz/melies-hugo#cambiar-dominio-de-github-pages.
 
 * Resultado: https://melies-hugo.js.org/.
+
+## Otros casos de uso
+
+### Documento cultura de empresa
+
+* Libro blanco de Kaleidos: https://github.com/kaleidos/libro-blanco.
+
+* Página web libro blanco: https://kaleidos.github.io/libro-blanco/.
+
+### Información sobre comunidades:
+
+* Geoinquietos: https://github.com/geoinquietos-org/geoinquietos-org.github.io.
+
+* Página web Geoinquietos: http://geoinquietos.org/.
+
+### Páginas web de conferencias:
+
+* Conferenciaror: https://github.com/aprodeweb/conferenciaror.es.
+
+* Página web conferenciaror: http://conferenciaror.es/.
+
+### Documentación de un framework:
+
+* Phaser CE: https://github.com/photonstorm/phaser-ce.
+
+* Documentación Phaser CE: https://photonstorm.github.io/phaser-ce/.
