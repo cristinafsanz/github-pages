@@ -32,7 +32,7 @@ Para habilitar GitHub Pages desde `master` o `/docs` hay que ir a la sección `S
 
 ### master
 
-Para proyectos web con sólo html, css y JavaScript.
+Para proyectos web con sólo html, css y JavaScript o proyectos que usen el generador estático Jekyll.
 
 * Repositorio de GitHub: https://github.com/cristinafsanz/melies-origen.
 
@@ -42,11 +42,11 @@ Para proyectos web con sólo html, css y JavaScript.
 
 ### gh-pages
 
-Para proyectos web con sólo html, css y JavaScript.
+Para proyectos web con sólo html, css y JavaScript o proyectos que usen el generador estático Jekyll.
 
 Actualmente tiene más sentido usarlo para alojar el código web generado a partir de otro subido a master (por ejemplo proyecto con gulp o código de un generador estático). Un ejemplo se explica en la charla <a href="https://www.youtube.com/watch?v=-MXVtFwS6Gw">Cómo desplegar tus proyectos Open Source</a> de <a href="https://twitter.com/laux_es">Ángel M Miguel</a>.
 
-El siguiente ejemplo se hizo antes de que se pudiera habilitar master para GitHub Pages, por lo que se trata de un caso de uso similar al de master.
+El siguiente ejemplo se hizo antes de que se pudiera habilitar master para GitHub Pages, por lo que se trata de un caso de uso similar al de master. En este caso se usa el generador estático Jekyll para el blog.
 
 * Repositorio de GitHub: https://github.com/cristinafsanz/projects.
 
