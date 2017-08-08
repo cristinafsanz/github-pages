@@ -107,7 +107,7 @@ Para proyectos donde hay código fuente que no es web, pero a partir de él se g
 
 * Resultado: https://cristinafsanz.github.io/angular-crud/index.html.
 
-### curso
+### Curso
 
 * Repositorio de GitHub: https://github.com/cristinafsanz/JavaScript30.
 
