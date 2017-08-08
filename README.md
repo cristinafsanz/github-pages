@@ -13,7 +13,8 @@ Este repositorio contiene los casos de uso que estoy probando para trabajar con 
   * [Blog](#blog)
   * [Portfolio](#portfolio)
   * [Presentación](#presentación)
-  * [Tutoriales](#tutoriales)
+  * [Tutorial](#tutorial)
+  * [Curso](#curso)
 
 * [Avanzado](#avanzado)
   * [Dominio propio](#dominio-propio)
@@ -105,6 +106,10 @@ Para proyectos donde hay código fuente que no es web, pero a partir de él se g
 * Repositorio de GitHub: https://github.com/cristinafsanz/angular-crud.
 
 * Resultado: https://cristinafsanz.github.io/angular-crud/index.html.
+
+### curso
+
+* Repositorio de GitHub: https://github.com/cristinafsanz/JavaScript30.
 
 ## Avanzado
 
