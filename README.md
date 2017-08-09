@@ -146,3 +146,9 @@ Para proyectos donde hay código fuente que no es web, pero a partir de él se g
 * Phaser CE: https://github.com/photonstorm/phaser-ce.
 
 * Documentación Phaser CE: https://photonstorm.github.io/phaser-ce/.
+
+### Guías:
+
+* Código GitHub: https://github.com/rogerdudler/git-guide 
+
+* Guía de git: http://rogerdudler.github.io/git-guide
