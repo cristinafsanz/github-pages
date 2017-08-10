@@ -149,24 +149,24 @@ Para proyectos donde hay código fuente que no es web, pero a partir de él se g
 
 ### Tutoriales:
 
-* Código GitHub: https://github.com/rogerdudler/git-guide 
+* Código GitHub: https://github.com/rogerdudler/git-guide.
 
-* Guía de git: http://rogerdudler.github.io/git-guide
+* Guía de git: http://rogerdudler.github.io/git-guide.
 
 ### Talleres:
 
-* Código GitHub: https://github.com/delapuente/pwa-workshop
+* Código GitHub: https://github.com/delapuente/pwa-workshop.
 
-* Taller (GitBook): https://delapuente.github.io/pwa-workshop/es/
+* Taller (GitBook): https://delapuente.github.io/pwa-workshop/es/.
 
 ### Visualizaciones:
 
-* Código GitHub: https://github.com/waapi/tool-transforms
+* Código GitHub: https://github.com/waapi/tool-transforms.
 
-* Ejemplo visual: https://waapi.github.io/tool-transforms/
+* Ejemplo visual: https://waapi.github.io/tool-transforms/.
 
 ### Presentaciones:
 
-* Código GitHub: https://github.com/LeaVerou/talks
+* Código GitHub: https://github.com/LeaVerou/talks.
 
-* Ejemplo charla: https://leaverou.github.io/talks/mavo-talk/#
+* Ejemplo charla: https://leaverou.github.io/talks/mavo-talk/#.
