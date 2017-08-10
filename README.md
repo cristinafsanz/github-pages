@@ -170,3 +170,9 @@ Para proyectos donde hay código fuente que no es web, pero a partir de él se g
 * Código GitHub: https://github.com/LeaVerou/talks.
 
 * Ejemplo charla: https://leaverou.github.io/talks/mavo-talk/#.
+
+### Arte:
+
+* Código GitHub: https://github.com/yiwenl/Sketches.
+
+* Sketches: http://yiwenl.github.io/Sketches/.
