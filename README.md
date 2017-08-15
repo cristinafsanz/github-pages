@@ -145,7 +145,7 @@ Para proyectos donde hay código fuente que no es web, pero a partir de él se g
 
 * Frontfest: https://github.com/frontfest/frontfest.github.io.
 
-* Página web Frontfest (compraron una plantilla estática y la desmenuzaron para adaptarla y que fuera más modular y fácil de editar, <a href="https://twitter.com/luisddm_">@luisddm</a>.): http://frontfest.es/.
+* Página web Frontfest (compraron una plantilla estática y la desmenuzaron para adaptarla y que fuera más modular y fácil de editar, <a href="https://twitter.com/luisddm_">@luisddm</a>): http://frontfest.es/.
 
 ### Documentación de un framework:
 
@@ -187,11 +187,13 @@ Para proyectos donde hay código fuente que no es web, pero a partir de él se g
 
 * Ejemplo visual: https://waapi.github.io/tool-transforms/.
 
-### Presentaciones:
+### Presentaciones con sistema basado en CSS:
 
 * Código GitHub: https://github.com/LeaVerou/talks.
 
 * Ejemplo charla: https://leaverou.github.io/talks/mavo-talk/#.
+
+* Sistema basado en CSS para presentaciones: https://github.com/LeaVerou/CSSS.
 
 ### Arte:
 
@@ -206,5 +208,11 @@ Para poder ver el resultado si un repositorio de GitHub no tiene GitHub Pages pa
 * Repositorio GitHub: https://github.com/htmlpreview/htmlpreview.github.com.
 
 * Página para visualizar el resultado: http://htmlpreview.github.io/.
+
+Ejemplo:
+
+* Animaciones CSS: https://github.com/nucliweb/AnimacionesCSS-EscuelaIT/tree/master/dia1/01.
+
+* Resultado: http://htmlpreview.github.io/?https://github.com/nucliweb/AnimacionesCSS-EscuelaIT/blob/master/dia1/01/index.html.
 
 
