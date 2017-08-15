@@ -47,15 +47,15 @@ Para proyectos web con sólo html, css y JavaScript o proyectos que usen el gene
 
 Para proyectos web con sólo html, css y JavaScript o proyectos que usen el generador estático Jekyll.
 
-Actualmente tiene más sentido usarlo para alojar el código web generado a partir de otro subido a master (por ejemplo proyecto con gulp o código de un generador estático). Un ejemplo se explica en la charla <a href="https://www.youtube.com/watch?v=-MXVtFwS6Gw">Cómo desplegar tus proyectos Open Source</a> de <a href="https://twitter.com/laux_es">Ángel M Miguel</a>.
+Actualmente tiene más sentido usarlo para alojar el código web generado a partir de otro subido a master (por ejemplo proyecto con gulp o código de un generador estático).
 
-El siguiente ejemplo se hizo antes de que se pudiera habilitar master para GitHub Pages, por lo que se trata de un caso de uso similar al de master. En este caso se usa el generador estático Jekyll para el blog.
+Un ejemplo se explica en la charla <a href="https://www.youtube.com/watch?v=-MXVtFwS6Gw">Cómo desplegar tus proyectos Open Source</a> de <a href="https://twitter.com/laux_es">Ángel M Miguel</a>.
 
-* Repositorio de GitHub: https://github.com/cristinafsanz/projects.
+* Repositorio de GitHub (rama master): https://github.com/Angelmmiguel/rock-the-open-source.
 
-* Cómo se hizo: http://cristinafsanz.github.io/projects/about/.
+* Repositorio de GitHub (rama gh-pages): https://github.com/Angelmmiguel/rock-the-open-source/tree/gh-pages.
 
-* Resultado: http://cristinafsanz.github.io/projects/.
+* Resultado: https://angelmmiguel.github.io/rock-the-open-source/.
 
 ### docs
 
