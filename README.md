@@ -163,6 +163,14 @@ Para proyectos donde hay código fuente que no es web, pero a partir de él se g
 
 * Ejemplos componente AngularJS: http://angular-ui-tree.github.io/angular-ui-tree/#/basic-example.
 
+### Explicaciones con Demo grabada:
+
+* Repositorio GitHub (rama gh-pages): https://github.com/Angelmmiguel/svgi/tree/gh-pages.
+
+* Herramienta de inspección SVG: https://angelmmiguel.github.io/svgi/.
+
+* Herramienta para grabación terminal: https://github.com/asciinema/asciinema.
+
 ### Preview tema para editores:
 
 * Tema New Moon: https://github.com/taniarascia/new-moon.
