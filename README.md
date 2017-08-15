@@ -21,6 +21,8 @@ Este repositorio contiene los casos de uso que estoy probando para trabajar con 
 
 * [Otros casos de uso](#otros-casos-de-uso)
 
+* [HTML Preview](#html-preview)
+
 ## Origen
 
 Hay dos posibilidades para publicar con GitHub Pages, usar el `User site` y publicar en `username.github.io` o usar `Project sites` para publicar en cualquiera de los repositorios que tengas (`username.github.io/repository`).
@@ -141,11 +143,31 @@ Para proyectos donde hay código fuente que no es web, pero a partir de él se g
 
 * Página web conferenciaror: http://conferenciaror.es/.
 
+* Frontfest: https://github.com/frontfest/frontfest.github.io.
+
+* Página web Frontfest (compraron una plantilla estática y la desmenuzaron para adaptarla y que fuera más modular y fácil de editar, <a href="https://twitter.com/luisddm_">@luisddm</a>.): http://frontfest.es/.
+
 ### Documentación de un framework:
 
 * Phaser CE: https://github.com/photonstorm/phaser-ce.
 
 * Documentación Phaser CE: https://photonstorm.github.io/phaser-ce/.
+
+### Demos:
+
+* Google closure-library: https://github.com/google/closure-library/tree/gh-pages/source/closure/goog/demos/editor.
+
+* goog.editor Demo: https://google.github.io/closure-library/source/closure/goog/demos/editor/editor.html.
+
+* Componente AngularJS: https://github.com/angular-ui-tree/angular-ui-tree.
+
+* Ejemplos componente AngularJS: http://angular-ui-tree.github.io/angular-ui-tree/#/basic-example.
+
+### Preview tema para editores:
+
+* Tema New Moon: https://github.com/taniarascia/new-moon.
+
+* Preview resultado tema: https://taniarascia.github.io/new-moon/.
 
 ### Tutoriales:
 
@@ -176,3 +198,13 @@ Para proyectos donde hay código fuente que no es web, pero a partir de él se g
 * Código GitHub: https://github.com/yiwenl/Sketches.
 
 * Sketches: http://yiwenl.github.io/Sketches/.
+
+## HTML Preview:
+
+Para poder ver el resultado si un repositorio de GitHub no tiene GitHub Pages para alojar sus ficheros html.
+
+* Repositorio GitHub: https://github.com/htmlpreview/htmlpreview.github.com.
+
+* Página para visualizar el resultado: http://htmlpreview.github.io/.
+
+
