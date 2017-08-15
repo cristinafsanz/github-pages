@@ -65,6 +65,8 @@ Para proyectos donde hay código fuente que no es web, pero a partir de él se g
 
 * Repositorio de GitHub: https://github.com/cristinafsanz/melies-hugo.
 
+* Repositorio de GitHub (directorio /docs): https://github.com/cristinafsanz/melies-hugo/tree/master/docs.
+
 * Cómo se hizo (README): https://github.com/cristinafsanz/melies-hugo.
 
 * Resultado: https://melies-hugo.js.org/.
