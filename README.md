@@ -213,7 +213,7 @@ Para proyectos donde hay código fuente que no es web, pero a partir de él se g
 
 ## HTML Preview:
 
-Para poder ver el resultado si un repositorio de GitHub no tiene GitHub Pages para alojar sus ficheros html.
+Para poder ver el resultado si un repositorio de GitHub no tiene GitHub Pages habilitado.
 
 * Repositorio GitHub: https://github.com/htmlpreview/htmlpreview.github.com.
 
