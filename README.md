@@ -61,6 +61,8 @@ Un ejemplo se explica en la charla <a href="https://www.youtube.com/watch?v=-MXV
 
 Para proyectos donde hay código fuente que no es web, pero a partir de él se genera el código web (como proyecto con gulp o código de un generador estático) o se añade documentación sobre un proyecto.
 
+Para generar el código web se puede usar pre-commit y automatizarlo para que se haga siempre que se ejecute un commit. Un ejemplo se puede ver en el [README del blog de Hugo](https://github.com/cristinafsanz/melies-hugo#automizar-generación-de-ficheros-de-salida).
+
 #### Proyecto generador estático
 
 * Repositorio de GitHub: https://github.com/cristinafsanz/melies-hugo.
