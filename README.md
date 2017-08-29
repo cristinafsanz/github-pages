@@ -35,7 +35,7 @@ Para habilitar GitHub Pages desde `master` o `/docs` hay que ir a la sección `S
 
 ### master
 
-Para proyectos web con sólo html, css y JavaScript o proyectos que usen el generador estático Jekyll.
+Para proyectos web o proyectos que usen el generador estático Jekyll.
 
 * Repositorio de GitHub: https://github.com/cristinafsanz/melies-origen.
 
@@ -45,7 +45,7 @@ Para proyectos web con sólo html, css y JavaScript o proyectos que usen el gene
 
 ### gh-pages
 
-Para proyectos web con sólo html, css y JavaScript o proyectos que usen el generador estático Jekyll.
+Para proyectos web o proyectos que usen el generador estático Jekyll.
 
 Actualmente tiene más sentido usarlo para alojar el código web generado a partir de otro subido a master (por ejemplo proyecto con gulp o código de un generador estático).
 
@@ -59,7 +59,9 @@ Un ejemplo se explica en la charla <a href="https://www.youtube.com/watch?v=-MXV
 
 ### docs
 
-Para proyectos donde hay código fuente que no es web, pero a partir de él se genera el código web (como proyecto con gulp o código de un generador estático) o se añade documentación sobre un proyecto.
+Para proyectos donde hay código fuente que no es web, pero a partir de él se genera el código web (como proyecto con gulp o código de un generador estático).
+
+También podría tratarse de un proyecto web pero donde queremos publicar una página web distinta en GitHub Pages, como la documentación del proyecto.
 
 Para generar el código web se puede usar pre-commit y automatizarlo para que se haga siempre que se ejecute un commit. Un ejemplo se puede ver en el [README del blog de Hugo](https://github.com/cristinafsanz/melies-hugo#automizar-generación-de-ficheros-de-salida).
 
