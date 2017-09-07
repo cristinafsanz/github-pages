@@ -31,7 +31,7 @@ Los casos de uso que voy a compartir son todos `Project Sites`, pero si alguien 
 
 Para los `Project Sites` puedes publicar tu código desde las ramas `master` o `gh-pages` o el directorio `/docs` en la rama `master`. Hasta agosto de 2016 sólo se podía publicar desde `gh-pages` por lo que los ejemplos que he hecho hasta esa fecha son desde esa rama.
 
-Para habilitar GitHub Pages desde `master` o `/docs` hay que ir a la sección `Settings` del repositorio. Desde `gh-pages` no hace falta, si no está habilitado para los orígenes anteriores y se sube código a esa rama, entonces se mostrará automáticamente.
+Para habilitar GitHub Pages desde `master`, `gh-pages` o `/docs` (dentro de la rama master) hay que ir a la sección `Settings` del repositorio y elegir el origen que quieras.
 
 ### master
 
