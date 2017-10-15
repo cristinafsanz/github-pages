@@ -70,7 +70,7 @@ Un ejemplo se explica en la charla <a href="https://www.youtube.com/watch?v=-MXV
 
 #### Un mismo proyecto generado para master, docs y gh-pages
 
-* master: https://github.com/cristinafsanz/vuejs-primeros-pasos.
+* master: https://github.com/cristinafsanz/vue-master.
 
 * docs: https://github.com/cristinafsanz/vue-master-docs.
 
