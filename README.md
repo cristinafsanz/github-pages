@@ -22,10 +22,13 @@ En otros repositorios he creado notas sobre [Git](https://github.com/cristinafsa
 
 * [Avanzado](#avanzado)
   * [Dominio propio](#dominio-propio)
+  
+* [HTML Preview](#html-preview)
+
+* [Jotted](#jotted)
 
 * [Otros casos de uso](#otros-casos-de-uso)
 
-* [HTML Preview](#html-preview)
 
 ## Origen
 
@@ -137,6 +140,24 @@ Un ejemplo se explica en la charla <a href="https://www.youtube.com/watch?v=-MXV
 
 * Resultado: https://melies-hugo.js.org/.
 
+## HTML Preview:
+
+Para poder ver el resultado si un repositorio de GitHub no tiene GitHub Pages habilitado.
+
+* Repositorio GitHub: https://github.com/htmlpreview/htmlpreview.github.com.
+
+* Página para visualizar el resultado: http://htmlpreview.github.io/.
+
+Ejemplo:
+
+* Animaciones CSS: https://github.com/nucliweb/AnimacionesCSS-EscuelaIT/tree/master/dia1/01.
+
+* Resultado: http://htmlpreview.github.io/?https://github.com/nucliweb/AnimacionesCSS-EscuelaIT/blob/master/dia1/01/index.html.
+
+## Jotted:
+
+Puedes subir los ejercicios a GitHub y tener el código por un lado y la demo por otro, como en [Flexbox master](https://github.com/cristinafsanz/flexbox-master) o puedes utilizar una librería como [Jotted](https://github.com/ghinda/jotted) y tener una funcionalidad como JSFiddle pero alojada en GitHub, como [Flexbox jotted](https://github.com/cristinafsanz/flexbox-jotted).
+
 ## Otros casos de uso
 
 ### Documento cultura de empresa
@@ -230,19 +251,3 @@ Un ejemplo se explica en la charla <a href="https://www.youtube.com/watch?v=-MXV
 * Demo Bosque: https://nikgraf.github.io/webvr-experiments/HelloWorld/v3/.
 
 * Demo Star wars: https://nikgraf.github.io/webvr-experiments/Animation/v2/.
-
-## HTML Preview:
-
-Para poder ver el resultado si un repositorio de GitHub no tiene GitHub Pages habilitado.
-
-* Repositorio GitHub: https://github.com/htmlpreview/htmlpreview.github.com.
-
-* Página para visualizar el resultado: http://htmlpreview.github.io/.
-
-Ejemplo:
-
-* Animaciones CSS: https://github.com/nucliweb/AnimacionesCSS-EscuelaIT/tree/master/dia1/01.
-
-* Resultado: http://htmlpreview.github.io/?https://github.com/nucliweb/AnimacionesCSS-EscuelaIT/blob/master/dia1/01/index.html.
-
-
