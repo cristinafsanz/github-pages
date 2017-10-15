@@ -1,14 +1,16 @@
 # Casos de uso de GitHub Pages
 Este repositorio contiene los casos de uso que estoy probando para trabajar con <a href="https://pages.github.com/">GitHub Pages</a>. Si quieres aportar más ideas, puedes contactarme por twitter a <a href="https://twitter.com/cristinafsanz">@cristinafsanz</a>.
 
+Para saber más sobre GitHub y GitHub Pages puedes consultar [¿Cómo se utiliza Github pages?](https://developer.mozilla.org/es/docs/Learn/Using_Github_pages).
+
 En otros repositorios he creado notas sobre [Git](https://github.com/cristinafsanz/notas-git) y [GitHub](https://github.com/cristinafsanz/mastering-github) por si ayudan :)
 
 ## Índice
 
 * [Origen](#origen)
   * [master](#master)
-  * [gh-pages](#gh-pages)
   * [docs](#docs)
+  * [gh-pages](#gh-pages)
 
 * [Utilidades](#utilidades)
   * [Página web](#página-web)
@@ -31,13 +33,13 @@ Hay dos posibilidades para publicar con GitHub Pages, usar el `User site` y publ
 
 Los casos de uso que voy a compartir son todos `Project Sites`, pero si alguien quiere usar el `User Site` tiene que saber que en este caso el origen para publicar el código puede ser sólo `master`.
 
-Para los `Project Sites` puedes publicar tu código desde las ramas `master` o `gh-pages` o el directorio `/docs` en la rama `master`. Hasta agosto de 2016 sólo se podía publicar desde `gh-pages` por lo que los ejemplos que he hecho hasta esa fecha son desde esa rama.
+Para los `Project Sites` puedes publicar tu código desde las ramas `master` o `gh-pages` o el directorio `/docs` en la rama `master`. Hasta agosto de 2016 sólo se podía publicar desde `gh-pages`.
 
 Para habilitar GitHub Pages desde `master`, `gh-pages` o `/docs` (dentro de la rama master) hay que ir a la sección `Settings` del repositorio y elegir el origen que quieras.
 
 ### master
 
-Para proyectos web o proyectos que usen el generador estático Jekyll.
+Se publica el código que tienes alojado en la rama master.
 
 * Repositorio de GitHub: https://github.com/cristinafsanz/melies-origen.
 
@@ -45,11 +47,15 @@ Para proyectos web o proyectos que usen el generador estático Jekyll.
 
 * Resultado: https://cristinafsanz.github.io/melies-origen/.
 
+### docs
+
+Cuando queremos publicar el código de un subdirectorio del repositorio, ya sea documentación o ficheros de producción que se generan a partir del código de master.
+
+Para generar el código web se puede usar pre-commit y automatizarlo para que se genere siempre que se ejecute un commit. Un ejemplo se puede ver en el [README del blog de Hugo](https://github.com/cristinafsanz/melies-hugo#automizar-generación-de-ficheros-de-salida).
+
 ### gh-pages
 
-Para proyectos web o proyectos que usen el generador estático Jekyll.
-
-Actualmente tiene más sentido usarlo para alojar el código web generado a partir de otro subido a master (por ejemplo proyecto con gulp o código de un generador estático).
+Cuando no queremos que el código generado o la documentación esté en la misma rama que el resto del código.
 
 Un ejemplo se explica en la charla <a href="https://www.youtube.com/watch?v=-MXVtFwS6Gw">Cómo desplegar tus proyectos Open Source</a> de <a href="https://twitter.com/laux_es">Ángel M Miguel</a>.
 
@@ -59,13 +65,13 @@ Un ejemplo se explica en la charla <a href="https://www.youtube.com/watch?v=-MXV
 
 * Resultado: https://angelmmiguel.github.io/rock-the-open-source/.
 
-### docs
+#### Un mismo proyecto generado para master, docs y gh-pages
 
-Para proyectos donde hay código fuente que no es web, pero a partir de él se genera el código web (como proyecto con gulp o código de un generador estático).
+* master: https://github.com/cristinafsanz/vuejs-primeros-pasos.
 
-También podría tratarse de un proyecto web pero donde queremos publicar una página web distinta en GitHub Pages, como la documentación del proyecto.
+* docs: https://github.com/cristinafsanz/vue-master-docs.
 
-Para generar el código web se puede usar pre-commit y automatizarlo para que se haga siempre que se ejecute un commit. Un ejemplo se puede ver en el [README del blog de Hugo](https://github.com/cristinafsanz/melies-hugo#automizar-generación-de-ficheros-de-salida).
+* gh-pages: https://github.com/cristinafsanz/vue-gh-pages.
 
 #### Proyecto generador estático
 
