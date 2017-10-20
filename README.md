@@ -76,6 +76,8 @@ Un ejemplo se explica en la charla <a href="https://www.youtube.com/watch?v=-MXV
 
 * gh-pages: https://github.com/cristinafsanz/vue-gh-pages.
 
+* gh-pages con Travis: https://github.com/cristinafsanz/vue-gh-pages-travis.
+
 #### Proyecto generador estático
 
 * Repositorio de GitHub: https://github.com/cristinafsanz/melies-hugo.
