@@ -1,6 +1,12 @@
 # Casos de uso de GitHub Pages
 Este repositorio contiene los casos de uso que estoy probando para trabajar con <a href="https://pages.github.com/">GitHub Pages</a>. Si quieres aportar más ideas, puedes contactarme por twitter a <a href="https://twitter.com/cristinafsanz">@cristinafsanz</a>.
 
+Presenté una charla para contar este proyecto en Codemotion Madrid 2017:
+
+- [Presentación](https://cristinafsanz.github.io/slides/github-pages/#slide=1)
+
+- [Guión](https://github.com/cristinafsanz/slides/blob/master/codemotion2017/guion.md)
+
 Para saber más sobre GitHub y GitHub Pages puedes consultar [¿Cómo se utiliza Github pages?](https://developer.mozilla.org/es/docs/Learn/Using_Github_pages).
 
 En otros repositorios he creado notas sobre [Git](https://github.com/cristinafsanz/notas-git) y [GitHub](https://github.com/cristinafsanz/mastering-github) por si ayudan :)
