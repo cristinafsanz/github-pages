@@ -82,25 +82,10 @@ Un ejemplo se explica en la charla <a href="https://www.youtube.com/watch?v=-MXV
 
 * gh-pages: https://github.com/cristinafsanz/vue-gh-pages.
 
+* gh-pages usando npm gh-pages: https://github.com/cristinafsanz/vue-gh-pages-npm.
+
 * gh-pages con Travis: https://github.com/cristinafsanz/vue-gh-pages-travis.
 
-#### Proyecto generador estático
-
-* Repositorio de GitHub: https://github.com/cristinafsanz/melies-hugo.
-
-* Repositorio de GitHub (directorio /docs): https://github.com/cristinafsanz/melies-hugo/tree/master/docs.
-
-* Cómo se hizo (README): https://github.com/cristinafsanz/melies-hugo.
-
-* Resultado: https://melies-hugo.js.org/.
-
-#### Proyecto Angular con gulp
-
-* Repositorio de GitHub: https://github.com/cristinafsanz/angularjs-gulp-browserify-boilerplate.
-
-* Cómo se hizo (README): https://github.com/cristinafsanz/angularjs-gulp-browserify-boilerplate.
-
-* Resultado: https://cristinafsanz.github.io/angularjs-gulp-browserify-boilerplate/.
 
 ## Utilidades
 
@@ -130,9 +115,9 @@ Un ejemplo se explica en la charla <a href="https://www.youtube.com/watch?v=-MXV
 
 ### Tutorial
 
-* Repositorio de GitHub: https://github.com/cristinafsanz/angular-crud.
+* Repositorio de GitHub: https://github.com/cristinafsanz/vuejs-primeros-pasos/tree/master/libro-vue.
 
-* Resultado: https://cristinafsanz.github.io/angular-crud/index.html.
+* Resultado: https://cristinafsanz.github.io/vuejs-primeros-pasos/libro-vue/capitulo1/example-vue/.
 
 ### Curso
 
