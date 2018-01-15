@@ -60,6 +60,12 @@ Se publica el código que tienes alojado en la rama master.
 
 Cuando queremos publicar el código de un subdirectorio del repositorio, ya sea documentación o ficheros de producción que se generan a partir del código de master.
 
+* Repositorio de GitHub: https://github.com/cristinafsanz/melies-hugo.
+
+* Cómo se hizo (README): https://github.com/cristinafsanz/melies-hugo.
+
+* Resultado: https://cristinafsanz.github.io/melies-hugo/.
+
 Para generar el código web se puede usar pre-commit y automatizarlo para que se genere siempre que se ejecute un commit. Un ejemplo se puede ver en el [README del blog de Hugo](https://github.com/cristinafsanz/melies-hugo#automizar-generación-de-ficheros-de-salida).
 
 ### gh-pages
