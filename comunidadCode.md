@@ -106,11 +106,11 @@ Nota inicial: Georges Méliès podría haber sido programador por su gran persev
 
     # GitHub (en repo): Copiar la url en GitHub en botón "Clone or download": Clone with HTTPS
 
-    Ex. git@github.com/user/repository-name.git
+    Ex. https://github.com/user/repository-name.git
 
     # En el terminal (local)
 
-    git clone git@github.com/user/repository-name.git
+    git clone https://github.com/user/repository-name.git
 
     cd repository-name
 
