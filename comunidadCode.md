@@ -98,6 +98,8 @@ Nota inicial: Georges Méliès podría haber sido programador por su gran persev
 
 ## Notas adicionales a la charla
 
+- [Guión charla Codemotion](https://cristinafsanz.github.io/slides/codemotion2017/guion).
+
 - Pasos para publicar tu experimento:
 
     ```
