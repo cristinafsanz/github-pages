@@ -58,6 +58,15 @@
 
 - [Extensión de VSCode para ver cómo queda antes de subir a GitHub](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview).
 
+    ```
+    cd /Users/cristinafernandez/Others/github-pages
+
+    code .
+
+    ```
+
+    Nota: [Abrir VSCode desde consola](https://code.visualstudio.com/docs/setup/mac).
+
 ### Pendiente: Mejor organización para notas y tutoriales
 
 - Ejemplo [e-journal](https://github.com/elenatorro/e-journal) de Elena Torró.
