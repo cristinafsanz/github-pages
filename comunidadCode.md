@@ -2,7 +2,35 @@
 
 ## Introducción
 
+### Estructura de la charla
+
+- Para qué uso GitHub y GitHub Pages actualmente.
+
+- Qué es, cómo funciona y algunos casos de uso.
+
+- Notas adicionales a la charla.
+
+- Preguntas de los asistentes a la charla.
+
+### Un caso de uso para hoy
+
+- Hacer un guión de una charla, como este fichero markdown: https://cristinafsanz.github.io/github-pages/comunidadCode.
+
+### Toma notas de todo
+
+- [Recomendación de Diana Hernández](https://twitter.com/IfThenElse__/status/960117304456564736).
+
+- [Artículo "Take notes on everything"](https://dev.to/maxwell_dev/takes-notes-on-everything-3io).
+
+    - Un conjunto de ficheros en markdown con notas de libros, artículos de blog o lo que sea que quiere tener para después: reglas de sintaxis, definiciones, trucos, ideas, frases, resúmenes...
+
+    - Sirve como referencia para cuando tengas que volver a consultarlo (y también para otros al ser un repositorio público).
+
+- [Repo Max Antonucci](https://github.com/maxx1128/Webdev-Study-Notes).
+
 ### Para qué estoy usando GitHub
+
+- A partir de ideas de repositorios de gente que sigo en GitHub: [Personal Goals de Una Kravets](https://una.im/personal-goals-guide/), [setup de Tania Rascia](https://github.com/taniarascia/setup), [charla de Bash Jorge Aznar](https://gist.github.com/jorgeatgu/6b1f9bdf8ae9b02ad69d2f7bd039aac9#automatizaci%C3%B3n-con-gulp-y-bash), [repositorio charla Vue Jose Dongil](https://github.com/jdonsan/charla-aprendiendo-vuejs).
 
 - Organización semanal / objetivos anuales: [Personal Goals](https://github.com/cristinafsanz/personal-goals).
 
@@ -28,7 +56,7 @@
 
 - [¿Qué es?](https://dev.to/kazz/boost-your-productivity-using-markdown-1be)
 
-- [Preview antes de subir a GitHub con VSCode](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview).
+- [Extensión de VSCode para ver cómo queda antes de subir a GitHub](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview).
 
 ### Pendiente: Mejor organización para notas y tutoriales
 
@@ -38,13 +66,23 @@
 
     - Calendario para mostrar progreso.
 
+- [Learning-Tracker](https://github.com/elena-in-code/Learning-Tracker) de Elena Moral. Basado en el de [Syk Houdeib](https://github.com/Syknapse/My-Learning-Tracker).
+
+- [Guías, tutoriales y snippets](https://github.com/taniarascia/guides) de Tania Rascia.
+
 ## Ilusionismo con GitHub Pages
 
-- [Slides](https://cristinafsanz.github.io/slides/github-pages/#slide=1).
+Nota inicial: Georges Méliès podría haber sido programador por su gran perseverancia: 
+
+- Libro ["Vida y obra de un pionero del cine / Georges Méliès"](http://www.madrid.org/biblio_publicas/cgi-bin/abnetopac?TITN=999193#absysNET) en bibliotecas de la Comunidad de Madrid.
+
+- [Slides compartir](https://cristinafsanz.github.io/slides/github-pages/#slide=1).
+
+- [Slides en local (con gifs)](file:///Users/cristinafernandez/Others/slides/codemotion2017/index.html).
 
 ## Notas adicionales a la charla
 
-- Pasos todo junto:
+- Pasos para publicar tu experimento:
 
     ```
 
@@ -70,11 +108,17 @@
 
     https://github.com/user/repository-name
 
+    # Habilitar GitHub Pages desde la pestaña "Settings"
+
+    # Comprobar que está publicado
+
+    https://user.github.io/repository-name
+
     ```
 
 - Para edición de algún fichero en concreto lo puedes hacer desde la aplicación web.
 
-- [1 proyecto publicado de 5 formas, no 4](https://cristinafsanz.github.io/slides/github-pages/#slide=22):
+- [1 proyecto publicado de 5 formas](https://cristinafsanz.github.io/slides/github-pages/#slide=22) (la última descubierta después de la charla):
 
     - [Publicar en gh-pages con npm](https://github.com/cristinafsanz/vue-gh-pages-npm).
 
