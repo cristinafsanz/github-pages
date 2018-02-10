@@ -10,7 +10,7 @@
 
 - Notas adicionales a la charla.
 
-- Preguntas de los asistentes a la charla.
+- Preguntas de los asistentes.
 
 ### Un caso de uso para hoy
 
@@ -78,7 +78,14 @@ Nota inicial: Georges Méliès podría haber sido programador por su gran persev
 
 - [Slides compartir](https://cristinafsanz.github.io/slides/github-pages/#slide=1).
 
-- [Slides en local (con gifs)](file:///Users/cristinafernandez/Others/slides/codemotion2017/index.html).
+- Slides en local (con gifs) desde consola:
+
+    ```
+    cd /Users/cristinafernandez/Others/slides/codemotion2017
+
+    open index.html
+
+    ```
 
 ## Notas adicionales a la charla
 
