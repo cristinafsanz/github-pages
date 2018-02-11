@@ -1,9 +1,7 @@
 # Casos de uso de GitHub Pages
 Este repositorio contiene los casos de uso que estoy probando para trabajar con <a href="https://pages.github.com/">GitHub Pages</a>.
 
-Presenté una [charla](https://cristinafsanz.github.io/slides/github-pages/#slide=1) para contar este proyecto en Codemotion Madrid 2017. Voy a repetirla en [Comunidad CODE](https://comunidadcode.com/) para que quede grabada, por si hay más gente interesada en verla:
-
-- [Guión Comunidad Code](comunidadCode.md)
+Presenté una [charla](https://cristinafsanz.github.io/slides/github-pages/#slide=1) para contar este proyecto en Codemotion Madrid 2017. Voy a repetirla en [Comunidad CODE](https://comunidadcode.com/) para que quede grabada, por si hay más gente interesada en verla.
 
 Para saber más sobre GitHub y GitHub Pages puedes consultar [¿Cómo se utiliza Github pages?](https://developer.mozilla.org/es/docs/Learn/Using_Github_pages)
 
@@ -43,6 +41,39 @@ Los casos de uso que voy a compartir son todos `Project Sites`, pero si alguien 
 Para los `Project Sites` puedes publicar tu código desde las ramas `master` o `gh-pages` o el directorio `/docs` en la rama `master`. Hasta agosto de 2016 sólo se podía publicar desde `gh-pages`.
 
 Para habilitar GitHub Pages desde `master`, `gh-pages` o `/docs` (dentro de la rama master) hay que ir a la sección `Settings` del repositorio y elegir el origen que quieras.
+
+Los pasos para publicar tu página web serían los mismos que para subir a GitHub + el último paso de habilitar GitHub Pages:
+
+  ```
+  # GitHub (en repo): Copiar la url en GitHub en botón "Clone or download": Clone with HTTPS
+
+  Ex. https://github.com/user/repository-name.git
+
+  # En el terminal (local)
+
+  git clone https://github.com/user/repository-name.git
+
+  cd repository-name
+
+  # Se añade todo el contenido en esa carpeta y se sube a GitHub
+
+  git add . (si quieres añadir todo)
+
+  git commit -m "Mensaje para el commit"
+
+  git push origin master (si estás en la rama master)
+
+  # Comprobación en GitHub
+
+  https://github.com/user/repository-name
+
+  # Habilitar GitHub Pages desde la pestaña "Settings"
+
+  # Comprobar que está publicado
+
+  https://user.github.io/repository-name
+
+  ```
 
 ### master
 
